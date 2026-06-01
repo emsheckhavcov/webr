@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #1b1b1b;
+  font-family: 'Advent Pro', sans-serif;
+}
+.shopName {
+  font-size: 24px;
+  font-weight: bold;
+}
+.address, .phone {
+  font-size: 16px;
+}

@@ -1,0 +1,8 @@
+.catalog {
+  padding: 20px;
+}
+.grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
