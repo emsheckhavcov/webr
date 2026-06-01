@@ -1,0 +1,17 @@
+.counter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Advent Pro', sans-serif;
+}
+button {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+span {
+  margin: 0 10px;
+}
